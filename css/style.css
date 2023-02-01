@@ -89,7 +89,7 @@ div{
 }
 
 footer{
-  background: linear-gradient(90deg, #000000, #0000ff 25%, #0066ff 70%, #000000 100%)
+  background: linear-gradient(90deg, #000000, #0000ff 25%, #0066ff 70%, #000000 100%);
   border: 5px solid #FFFFFF;
 }
 .footer p {
