@@ -24,13 +24,13 @@ p{
   padding-left: 10px;
 }
 
-#introduction{
+.introduction{
   border-radius: 15px; 
   margin-top: 15px;
   line-height: 2;
 }
 
-#red{
+.red{
   background-color: #FF0000;
   text-align: right;
   margin-left: 50px;
@@ -38,7 +38,7 @@ p{
   border-left: 5px;
 }
 
-#blue{
+.blue{
   background-color: #0000FF;
   text-align: left;
   margin-right: 50px;
@@ -46,14 +46,14 @@ p{
   border-right: 5px;
 }
 
-#blue h2{
+.blue h2{
   color: #C4C4C4;
 }
-#blue p{
+.blue p{
   color: #C4C4C4;
 }
 
-#green{
+.green{
   background-color: #00EB00;
   text-align: left;
   margin-right: 50px;
@@ -61,7 +61,7 @@ p{
   border-right: 5px;
 }
 
-#yellow{
+.yellow{
   background-color: #FFFF00;
   text-align: right;
   margin-left: 50px;
@@ -69,7 +69,7 @@ p{
   border-left: 5px;
 }
 
-#yellow p{
+.yellow p{
   color: #707070;
 }
 
@@ -89,7 +89,7 @@ div{
 }
 
 footer{
-  background-image: linear-gradient(90deg, #000000, #0000ff 25%, #0066ff 70%, #000000 100%)
+  background: linear-gradient(90deg, #000000, #0000ff 25%, #0066ff 70%, #000000 100%)
   border: 5px solid #FFFFFF;
 }
 .footer p {
