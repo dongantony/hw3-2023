@@ -1,10 +1,8 @@
 body {
-  font-familiy: Arial, Verdana;
   color: #FFFFFF;
   background-color: #000000;
-  margin-top: 20px;
-  margin-left: 20px;
-  margin-right: 20px;
+  margin: 20px 20px 0px 20px;
+  font-familiy: Arial, Verdana;
 }
 
 h1{
@@ -20,13 +18,12 @@ h2{
 
 p{
   font-size: 24px;
-  padding-top: 10px;
-  padding-left: 10px;
+  padding: 10px 0px 0px 10px;
 }
 
 .introduction{
   border-radius: 15px; 
-  margin-top: 15px;
+  margin: 15px 0px 0px 0px;
   line-height: 2;
 }
 
@@ -88,7 +85,8 @@ footer{
   background: linear-gradient(90deg, #000000, #0000ff 25%, #0066ff 70%, #000000 100%);
   border: 5px solid #FFFFFF;
 }
-.footer p {
+
+footer p {
   padding-top: 15px;
   padding-bottom: 15px;
   padding-right: 15px;
